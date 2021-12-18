@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "name": "Container",
+  "params": {
+    "child": {
+      "name": "Text",
+      "params": {
+        "0": "Hii Aditya"
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
